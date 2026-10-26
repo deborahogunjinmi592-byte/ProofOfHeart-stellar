@@ -1,4 +1,3 @@
-
 # Rust build artifacts
 # =========================
 /target/
@@ -53,3 +52,5 @@ pr_response.json
 
 .gitignore
 branch_structure.json
+config.bat
+node_modules
